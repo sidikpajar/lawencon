@@ -1,0 +1,40 @@
+.name {
+  color:$title-color;
+  font-Size:46px;
+  font-weight: bold;
+  margin:8px;
+  font-family: AvenirLTStd-BLACK;
+}
+.description{
+  color:$title-color;
+  font-Size:24px;
+  margin:8px;
+  font-family: AvenirLTStd-Roman;
+}
+
+.age{
+  color:$title-color;
+  font-Size:18px;
+  margin:8px;
+  font-family: AvenirLTStd-Roman;
+}
+
+.detail-wrapping{
+  text-align: center;
+  justify-content: center;
+}
+
+
+.detail-avatar{
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.paperStyle{
+  padding:30px;
+}
+
+.button-custom{
+  margin-bottom:20px;
+}
